@@ -1,0 +1,17 @@
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.exe
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.deps.json
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.runtimeconfig.json
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.dll
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\bin\Debug\net10.0\JSONDEMO.pdb
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.csproj.AssemblyReference.cache
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.AssemblyInfoInputs.cache
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.AssemblyInfo.cs
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.csproj.CoreCompileInputs.cache
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.csproj.Up2Date
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.dll
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\refint\JSONDEMO.dll
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.pdb
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\JSONDEMO.genruntimeconfig.cache
+C:\Users\nhlanhla\Documents\Nhlanhla 2\Online Courses\C# Master Class Course\Projects\JSON\JSONDEMO\JSONDEMO\obj\Debug\net10.0\ref\JSONDEMO.dll
